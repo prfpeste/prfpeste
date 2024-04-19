@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @prfpeste
+- 👀 I’m interested in Linux, Modelica, OpenFoam
